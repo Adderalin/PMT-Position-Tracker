@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pmttracker"
+name = "pmtracker"
 version = "0.1.0"
 description = ""
 authors = ["Adderalin <109114685+Adderalin@users.noreply.github.com>"]
