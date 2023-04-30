@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pmttracker"
+version = "0.1.0"
+description = ""
+authors = ["Adderalin <109114685+Adderalin@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+grequests = "^0.6.0"
+selenium = "^4.9.0"
+tda-api = "^1.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
