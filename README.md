@@ -1,5 +1,7 @@
 # PMT-Position-Tracker
-Fresh Complete Rewrite of the old PMT Lotto Tracker to track ALL trading positions - long/short stock, spreads, box spreads, etc, using the transaction API to have a penny accurate figure. 
+Fresh complete rewrite of the old PMT Lotto Tracker to track ALL trading positions - long/short stock, spreads, box spreads, etc, using the transaction API to have a penny accurate figure. 
+
+Completely open source under MIT license, public for everyone! 
 
 # Features
 Tracks:     
@@ -43,6 +45,9 @@ Waste Management Services:
 
 * No more lag - no more lag waiting for earnings or having to parse your up to date orders! 
 
+Session Management:
+
+* Opens Chrome for much easier session management instead of having to do manually. 
 
 # Architecture
 
