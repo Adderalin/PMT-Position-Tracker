@@ -1,3 +1,0 @@
-grequests
-selenium
-tda-api
