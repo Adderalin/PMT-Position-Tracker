@@ -1,3 +1,6 @@
+# personal info/API/etc
+td_state.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
